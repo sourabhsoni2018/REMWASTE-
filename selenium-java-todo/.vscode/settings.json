@@ -1,0 +1,5 @@
+{
+    "maven.dependency.enableConflictDiagnostics": false,
+    "maven.executable.options": "C:\\Users\\srbro\\Downloads\\apache-jmeter-5.4.1\\apache-jmeter-5.4.1\\bin",
+    "maven.terminal.useJavaHome": true
+}

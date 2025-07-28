@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="TodoAppTest">
+        <methods>
+          <include name="testCreateTodo"/>
+          <include name="setup"/>
+          <include name="testDeleteTodo"/>
+          <include name="testEditTodo"/>
+          <include name="testValidLogin"/>
+          <include name="testInvalidLogin"/>
+        </methods>
+      </class> <!-- TodoAppTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
